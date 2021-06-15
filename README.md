@@ -4,7 +4,7 @@
 Al principio estos desarrollos los hice programando con php, html, css y bases de datos MySql y luego mediante tecnologías del stack JavaScript: NodeJs, MongoDB y mas recientemente incursionando en ReactJs.
 
 
-# 🛠️Algunos desarrollos
+# 🛠️ Algunos desarrollos
 Entre mis desarrollos mas significativos se encuentran: 
 
 📚 Una web de soporte de contenido multimedia vinculada a un libro publicado en papel.
