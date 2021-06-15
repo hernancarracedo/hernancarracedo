@@ -24,3 +24,5 @@ También he trabajado dando clases a alumnos iniciándose en el mundo de la prog
 
 # 🚀 Desafio
 Si bien mi actividad laboral ha sido de forma independiente con proyectos de una escala que puedan ser afrontados por un solo programador, me propongo ahora ser parte de una empresa o equipo grande de desarrollo y de esa manera adquirir nuevas experiencias en contacto con el desarrollo de aplicaciones de mayor tamaño y complejidad de esas que solo pueden obtenerse mediante el trabajo y la coordinación de las fuerzas de todo un equipo.
+
+## SO MANY STEPS HAVE BEEN DONE... SO MUCH MORE AHEAD OF US! 💪
