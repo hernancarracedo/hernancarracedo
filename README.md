@@ -7,7 +7,7 @@ Al principio estos desarrollos los hice programando con php, html, css y bases d
 # 🛠️Algunos desarrollos
 Entre mis desarrollos mas significativos se encuentran: 
 
-📖 Una web de soporte de contenido multimedia vinculada a un libro publicado en papel.
+📚 Una web de soporte de contenido multimedia vinculada a un libro publicado en papel.
 🦷 Un sistema de gestión de un clínica odontológica, 
 🥾 Una web para compartir tracks de GPS de actividades al aire libre, 
 🛒 Un e-commerce para un distribuidora de productos de grifería y 
