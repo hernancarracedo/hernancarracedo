@@ -1,4 +1,4 @@
-## Hola! Soy Hernán y algunos me conocen como *“el pampa”*. Soy programador de aplicaciones web y lo hago desde hace más de 10 años, ofreciendo mis desarrollos a clientes de manera freelance ⚡
+## Hola! Soy Hernán y algunos me conocen como *“el pampa”*. Soy programador de aplicaciones web y lo hago desde hace más de 12 años, ofreciendo mis desarrollos a clientes de manera freelance ⚡
 
 # 👣 Parte del recorrido
 Al principio estos desarrollos los hice programando con php, html, css y bases de datos MySql y luego mediante tecnologías del stack JavaScript: NodeJs, MongoDB y mas recientemente incursionando en ReactJs.
