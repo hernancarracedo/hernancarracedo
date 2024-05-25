@@ -23,6 +23,6 @@ Entre mis desarrollos mas significativos se encuentran:
 También he trabajado dando clases a alumnos iniciándose en el mundo de la programación, desempeñándome como mentor en un curso de desarrollo web fullstack.  Enseñando HTML5,  CSS3 y JavaScript para Frontend y NodeJs, Express, MySQL y mongoDB en los módulos de Backend. Me parece apasionante ser un pequeño engranaje en el proceso de aprendizaje de las personas, facilitarlo, potenciarlo y además me resultó una poderosa herramienta para ser mejor programador, aprendiendo con más profundidad de las tecnologías que debía enseñar.
 
 # 🚀 Desafío
-Si bien mi actividad laboral ha sido de forma independiente con proyectos de una escala que puedan ser afrontados por un solo programador, me propongo ahora ser parte de una empresa o equipo grande de desarrollo y de esa manera adquirir nuevas experiencias en contacto con el desarrollo de aplicaciones de mayor tamaño y complejidad de esas que solo pueden obtenerse mediante el trabajo y la coordinación de las fuerzas de todo un equipo.
+Mis trabajos han sido hasta aquí de manera independiente con proyectos de una escala que puedan ser afrontados por un solo programador, ahora me propongo trabajar siendo parte de un equipo de desarrollo y de esa manera adquirir nuevas habilidades en contacto con el desarrollo de aplicaciones de mayor tamaño y complejidad de esas que solo pueden obtenerse mediante el trabajo metódico y la coordinación de las fuerzas de todo un equipo.
 
 ## _So many steps have been done... so much more ahead of us!_ 💪
